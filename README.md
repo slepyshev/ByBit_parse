@@ -11,6 +11,6 @@
 4. Superset - получение датасета из БД и постройка дашборда
 
 ## Структура проекта:
-main.py - dag Airflow
-query_for_superset.sql - sql запрос для формирования датасета в Superset
+main.py - dag Airflow  
+query_for_superset.sql - sql запрос для формирования датасета в Superset  
 dashboard_superset.jpg - дашборд в Superset
